@@ -389,20 +389,20 @@ body {
 
     .process .left {
         width: 80%;
-        padding: 30px 30px 30px 10px;
+        padding: 30px 30px 30px 15px;
         margin: 30px 10px;
     }
 
     .process .right {
         width: 80%;
-        padding: 30px 30px 30px 10px;
+        padding: 30px 30px 30px 15px;
         margin: 30px 10px;
     }
 
     .process > div h2 {
         text-align: center;
         font-size: 24px;
-        transform: translateX(10px);
+        transform: translateX(5px);
     }
 
     .process > div li {
